@@ -1,2 +1,4 @@
 test
-sodydosodfyy
+<<<<<<< HEAD
+sodydosodfyy,diosjefijoi
+>>>>>>> origin/master
